@@ -1,6 +1,6 @@
 # red bicicletas
 
-    👋 requisitos
+    🚀 requisitos
 
         1. instalar visual studio code
 
